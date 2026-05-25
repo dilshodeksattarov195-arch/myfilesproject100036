@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerdncrypt",
+        "uuid": 26640,
+        "checksum": "pkhl0x"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
